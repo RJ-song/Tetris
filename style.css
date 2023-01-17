@@ -9,11 +9,13 @@
     display: flex;
     flex-wrap: wrap;
     background-color: darkgray;
+    margin:0px auto;
   }
   
   .grid div {
     height: 20px;
     width: 20px;
+    margin:0px auto;
   }
   
   .tetromino {
@@ -33,4 +35,5 @@
   .mini-grid div {
     height: 20px;
     width: 20px;
+    
   }
